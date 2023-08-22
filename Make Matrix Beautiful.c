@@ -1,3 +1,6 @@
+//this code is written in C++
+
+
 class Solution
 {
     public:
